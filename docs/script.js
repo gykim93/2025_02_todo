@@ -453,8 +453,8 @@ function App() {
 
   useEffect(() => {
     todosStatus.addTodo("운동\n스트레칭\n유산소\n상체\n하체볼륨 트레이닝");
-    todosStatus.addTodo("명상");
-    todosStatus.addTodo("공부");
+    todosStatus.addTodo("달리기");
+    todosStatus.addTodo("마라톤");
   }, []);
 
   return /*#__PURE__*/(

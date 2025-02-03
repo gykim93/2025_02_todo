@@ -462,7 +462,7 @@ function App() {
       <AppBar position="fixed">
         <Toolbar>
           <div className="flex-1"></div>
-          <span className="font-bold">HAPPY NOTE</span>
+          <span className="font-bold">일기장</span>
           <div className="flex-1"></div>
         </Toolbar>
       </AppBar>

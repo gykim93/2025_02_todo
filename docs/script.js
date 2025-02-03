@@ -462,7 +462,7 @@ function App() {
     React.createElement(AppBar, { position: "fixed" }, /*#__PURE__*/
     React.createElement(Toolbar, null, /*#__PURE__*/
     React.createElement("div", { className: "flex-1" }), /*#__PURE__*/
-    React.createElement("span", { className: "font-bold" }, "HAPPY NOTE"), /*#__PURE__*/
+    React.createElement("span", { className: "font-bold" }, "\uC77C\uAE30\uC7A5"), /*#__PURE__*/
     React.createElement("div", { className: "flex-1" }))), /*#__PURE__*/
 
 
